@@ -3,7 +3,10 @@
 A robust, secure, and scalable backend system for an E-Commerce application. Built using the MERN stack's backend technologies (Node.js, Express.js, MongoDB), this API handles user authentication, product management, advanced search and filtering, and order processing.
 
 ## 🔗 Live API URL
-**Base URL:**  https://m4-e-commerce-backend-system.onrender.com
+**Base URL:**  [https://m4-e-commerce-backend-system.onrender.com]
+
+**🔍 Quick Test (View Products in Browser):** [https://m4-e-commerce-backend-system.onrender.com/api/products]
+
 
 ## 🚀 Features
 
