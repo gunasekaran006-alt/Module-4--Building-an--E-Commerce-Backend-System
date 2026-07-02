@@ -27,6 +27,11 @@ app.use(errorHandler);
 
 const PORT = process.env.PORT ;
 
+// Basic API Route for Browser View
+app.get('/', (req, res) => {
+    res.status(200).send('<h2>Welcome to E-Commerce Backend API!</h2><p>The server is running securely.</p>');
+});
+
 app.listen(PORT, () => {
     console.log(`Server running securely on port ${PORT}`);
 });
